@@ -1,6 +1,6 @@
 # dull-party-2583
 
-Deployed Link:- https://sellbuyer.netlify.app/
+Deployed Link:- https://deft-caramel-e9652e.netlify.app/
 
 Hii Guys this is Quikr clone website created by
 
